@@ -20,4 +20,4 @@ latitude and longitude.
 
 Now the bucket is setup to recieve the ISS data from account 1 through an authorized IAM role that will be setup next.
 
-(images/destination-s3-bucket.png)
+![Destination S3 bucket](images/destination-s3-bucket.png)
