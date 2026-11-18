@@ -1,0 +1,1 @@
+![Successful Lambda test showing ISS location data. The code to run this can be found in src/lambda_function.py.](images/lambda-iss-test.png)
